@@ -1,4 +1,5 @@
 # CMU 15-462 - Scotty3D
+http://15462.courses.cs.cmu.edu/fall2018/lectures
 
 Welcome to Scotty3D! This 3D graphics software implements interactive mesh
 editing, realistic path tracing, and dynamic animation. Implementing the
