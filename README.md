@@ -8,3 +8,5 @@ functionality of the program constitutes the majority of the coursework for
 
 Further information is available in the User Guide and Developer Manual, both
 available on the project wiki accessible via tab at the top of the Github.com UI.
+
+After: http://graphics.cs.cmu.edu/courses/15-466-f18/
